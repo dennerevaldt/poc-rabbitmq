@@ -1,7 +1,7 @@
 {
-  "name": "pock-rabbitmq",
+  "name": "poc-rabbitmq",
   "version": "1.0.0",
-  "description": "Pock Rabbitmq",
+  "description": "Poc Rabbitmq",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
